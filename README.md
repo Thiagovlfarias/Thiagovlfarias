@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Sou o Thiago Farias
 
-<!--
-**Thiagovlfarias/Thiagovlfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Técnico ADM
+- 🌱 Estudando ADS
+- 😄 ELE/DELE
 -->
+
+## Competências
+🔹 Criativo e altamente adaptável
+🔹 Foco em trabalho em equipe e colaboração
+🔹 Comunicação clara e escuta ativa
+
+## Habilidades
+🔹 Microsoft 365
+🔹 Word, excel e Power point
+🔹 IA e gestão
